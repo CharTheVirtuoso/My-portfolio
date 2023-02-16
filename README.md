@@ -1,3 +1,3 @@
 # My Portfolio
-# Chanukya Sersasinghe
-Welcome to my portfolio !!!
+Hello coders, I am Chanukya Sersasinghe and welcome to my portfolio !!!
+
