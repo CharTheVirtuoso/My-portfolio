@@ -4,6 +4,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       signature: ["Satisfy", "cursive"],
+      sans: ["Great vibes"],
     },
   },
   plugins: [],
